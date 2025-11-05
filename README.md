@@ -38,12 +38,7 @@ It will then:
 
 ---
 
-## 💻 Live Demo
 
-If GitHub Pages is enabled, view the live calculator here:  
-➡️ [https://yourusername.github.io/dxm-harm-reduction-calc](https://yourusername.github.io/dxm-harm-reduction-calc) *(replace with your actual link)*
-
----
 
 ## 📂 How to Use Locally
 
